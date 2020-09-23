@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/hansindu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hansindu" height="30" width="30" /></a>
 </p>
 
-![image](https://media.tenor.com/images/00e83ff5a523055faed12d8b0c46cf02/tenor.gif)
+
